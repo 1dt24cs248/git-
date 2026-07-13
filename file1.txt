@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 GIT is a subject 
+=======
+Git is a subject
+git tracks file changes 
+>>>>>>> 8529c1eeb30290d835324c92be674fbfd4a89a0c
